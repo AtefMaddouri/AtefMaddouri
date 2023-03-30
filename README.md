@@ -31,15 +31,15 @@ Hi! My name is Atef and I'm a software architecture engineer from Tunisia. Thank
         <tr valign="top">
           <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtefMaddouri&layout=compact&theme=chartreuse-dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=AtefMaddouri&show_icons=true"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AtefMaddouri&show_icons=true"/> -->
             </td>
            <td>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtefMaddouri&layout=compact&theme=chartreuse-dark"/> 
-             <img src="https://github-readme-stats.vercel.app/api?username=AtefMaddouri&show_icons=true&theme=chartreuse-dark"/>
+         <!--    <img src="https://github-readme-stats.vercel.app/api?username=AtefMaddouri&show_icons=true&theme=chartreuse-dark"/>-->
           </td>
         </tr>
     </tbody>
 </table>
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtefMaddouri&repo=Spring-Security-JWT"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtefMaddouri&repo=Spring-Security-JWT"/> -->
